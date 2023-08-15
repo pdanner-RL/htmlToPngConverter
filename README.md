@@ -3,7 +3,7 @@
 This <s>doubtful</s> script will download documents html previews from Docs API generate letter-size screenshots using puppeteer.
 
 ### How to use it:
-Put desired documents template information into file ```name_templates_dds.txt```. Follow convention: template name | template UUID | template DDS.
+Put desired documents template information into file ```name_templates_dds.txt``` and ```templates_uuid.txt```. Follow convention: template name | template UUID | template DDS.
 
 Downloaded templates will be stored in ```htmlPreviews```.
 
